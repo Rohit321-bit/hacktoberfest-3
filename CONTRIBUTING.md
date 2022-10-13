@@ -2374,3 +2374,8 @@
 - Place: Uttar Pradesh, INdia
 - Bio: Student
 - Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
+
+#### Name: [Rohit Shaw](https://github.com/Rohit321-bit)
+- Place: West Bengal
+- Bio: Electronics and Communication Enginner
+- Github: [Github Account](https://github.com/Rohit321-bit)
